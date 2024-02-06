@@ -1,4 +1,4 @@
-Descargador con interfaz de playlist o videos de youtube usando repositorio pytube.
+Descargador con interfaz de playlist o videos de youtube usando repositorio pytube. No es un .exe ni ejecutable, solo se puede iniciar desde un IDE como Pycharm
 
 *primero hay que instalar el repositorio de pytube desde cmd
 " pip install pytube"
