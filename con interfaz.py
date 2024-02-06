@@ -10,7 +10,7 @@ import os
 #cambiar carpeta destino
 
 
-destino = 'musica'
+destino = 'descargas'
 
 class DownloadThread(threading.Thread):
     def __init__(self, url, formato, is_playlist):
